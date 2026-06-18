@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=PCN Calculator
+Comment=Advanced calculator with modern style
+Exec=/usr/bin/pcn-calculator
+Icon=/usr/share/icons/hicolor/256x256/apps/pcn-calculator.png
+Terminal=false
+Type=Application
+Categories=Utility;Calculator;
+StartupNotify=true
